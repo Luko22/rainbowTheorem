@@ -1,2 +1,7 @@
-# rainbowTheorem
-This was a model I worked on in my last year of Highschool. It assumes a common release point and endpoint. Through trial and error I stumbled upon a formula that describes the infinte number of theoretical basketball trajectories. I called it the "Imperfect Rainbow Theorem".
+# Studying the Projectile of a basketball
+![image](https://github.com/user-attachments/assets/00db3839-5a88-4de5-8f85-80a30b4d4546)
+
+## Aim
+Through this paper, I intend to study and model the mathematical trajectory of a basketball. I will consider the movement of a ball thrown at different angles from the same place and reaching the same target: the theoretical basket. The points from which the balls are released, and reach are kept the same all throughout. Evidently, my methods may disregard real life factors that largely influence projectile motion, which is partially excused by the limited number of resources available to me at the time.
+As I started to ponder on the mathematical approach I would use to confront this investigation, it was obvious that quadratic functions would play a substantial part. Many, if not all, factors of the space analyzed will be modelled after my school’s basketball court’s dimensions. The ball is to be released 5 meters away from the basket and must reach a basket 3 meters high. The variable D defines the horizontal distance from the basket and H is the height. The basket’s coordinate can be written as B (0, 3), also expressed through vector (0¦3), or 3j. Also, as an analytical material, I will use the website “Desmos.com” to explore and display graphs and their properties.
+As stated before, this paper will model and study the trajectories of different balls released from the same position at the 3-point line, swishing through the net. Translating to mathematical language: different negative quadratic curves intersect at 2 non- symmetrical points.
