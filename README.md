@@ -1,5 +1,6 @@
 # Studying the Projectile of a basketball
-![image](https://github.com/user-attachments/assets/00db3839-5a88-4de5-8f85-80a30b4d4546)
+![image](https://github.com/user-attachments/assets/5ef32251-9985-4d65-bbf2-9df26ef87e87)
+
 
 ## Aim
 Through this paper, I intend to study and model the mathematical trajectory of a basketball. I will consider the movement of a ball thrown at different angles from the same place and reaching the same target: the theoretical basket. The points from which the balls are released, and reach are kept the same all throughout. Evidently, my methods may disregard real life factors that largely influence projectile motion, which is partially excused by the limited number of resources available to me at the time.
